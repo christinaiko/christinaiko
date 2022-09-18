@@ -1,3 +1,6 @@
+![ Blue Illustrated Traveling LinkedIn Banner](https://user-images.githubusercontent.com/77721595/190928817-5e367c55-1194-4d93-96e3-7cbe2e3cfb71.png)
+
+
 Hi! I'm Christin. 
 
 Transactional paralegal turned Data Professional. I spent nearly a decade in the legal field working with financial data and other highly sensitive/confidential information. However, I recently pivoted into DataOps and I will continue to treat data as if I were still bound by attorney-client privilege.
